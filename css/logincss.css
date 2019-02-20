@@ -2,14 +2,14 @@
   @media all{
   body,div,span,h1,h6,p,form,label{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
   .clear{clear:both;}
-  body{background:url(https://p.w3layouts.com/demos/aug-2016/19-08-2016/classy_login_form/web/images/banner1.jpg)no-repeat;background-attachment:fixed;background-position:center;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding:0;margin:0;font-family:roboto condensed,sans-serif;font-size:100%;}
+  body{background:url(../../background-login.jpg)no-repeat;background-attachment:fixed;background-position:center;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding:0;margin:0;font-family:roboto condensed,sans-serif;font-size:100%;}
   h1,h6{margin:0;}
   p{margin:0;}
   label{margin:0;}
   .header-main{padding:100px 0 50px;width:30%;margin:0 auto;}
   .header-main h1{font-size:64px;color:#fff;text-align:center;padding-bottom:.8em;}
-  .header-left-bottom input[type=text]{background:url(https://p.w3layouts.com/demos/aug-2016/19-08-2016/classy_login_form/web/images/m.png)no-repeat 0px 5px;outline:none;font-size:15px;font-weight:400;color:#fff;padding:12px 13px 20px 44px;border:none;border-bottom:1px solid #fff;width:87%;margin:0 0 20px;display:inline-block;}
-  .header-left-bottom input[type=password]{background:url(https://p.w3layouts.com/demos/aug-2016/19-08-2016/classy_login_form/web/images/l.png)no-repeat 0px 5px;outline:none;font-size:15px;font-weight:400;color:#fff;border:none;border-bottom:1px solid #fff;padding:12px 13px 20px 44px;width:87%;margin:0 0 20px;display:inline-block;}
+  .header-left-bottom input[type=text]{background:url(../../user.png)no-repeat 0px 5px;outline:none;font-size:15px;font-weight:400;color:#fff;padding:12px 13px 20px 44px;border:none;border-bottom:1px solid #fff;width:87%;margin:0 0 20px;display:inline-block;}
+  .header-left-bottom input[type=password]{background:url(../../lock.png)no-repeat 0px 5px;outline:none;font-size:15px;font-weight:400;color:#fff;border:none;border-bottom:1px solid #fff;padding:12px 13px 20px 44px;width:87%;margin:0 0 20px;display:inline-block;}
   .header-left-bottom button[type=submit]{background:#f36;color:#fff;font-size:26px;padding:.3em 1.2em;width:100%;font-weight:500;transition:.5s all;-webkit-transition:.5s all;-moz-transition:.5s all;-o-transition:.5s all;display:inline-block;cursor:pointer;outline:none;border:none;border-radius:3px;font-family:roboto condensed,sans-serif;}
   .header-left-bottom button[type=submit]:hover{background:#b5183f;transition:.5s all;-webkit-transition:.5s all;-moz-transition:.5s all;-o-transition:.5s all;}
   .remember{margin:1em 0;}
